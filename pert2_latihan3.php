@@ -9,7 +9,7 @@
  <select name="pilih">
   <option value="+">+</option>
   <option value="-">-</option>
-  <option value=""></option>
+  <option value="*"></option>
                 <option value="/">/</option>
  </select>
  Nilai 2 : <input type="text" name="bilangan2">
